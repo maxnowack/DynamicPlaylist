@@ -1,0 +1,48 @@
+2010-05-11 11:19:49	I	msg:<***>	Logger startup
+2010-05-11 11:19:49	I	msg:<***>	version 0.2.0.0 build 0.0.25.0
+2010-05-11 11:19:49	D	msg:<***>	
+2010-05-11 11:19:49	I	msg:[VUPush] 0 VU images loaded
+2010-05-11 11:19:49	I	msg:[VUPush] 0 VU images loaded
+2010-05-11 11:19:49	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-11 11:19:49	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-11 11:19:49	I	msg:[playlistMgr] load complete
+2010-05-11 11:19:49	I	msg:*******************************************************************************
+2010-05-11 11:19:49	I	msg:** TRANScast Distributed Network Audio Content Provider
+2010-05-11 11:19:49	I	msg:** Copyright (C) 2000 Nullsoft, Inc.  All Rights Reserved.
+2010-05-11 11:19:49	I	msg:** Use "sc_trans filename.conf" to specify a config file.
+2010-05-11 11:19:49	I	msg:*******************************************************************************
+2010-05-11 11:19:49	I	msg:[TRANSCast] DNAS/posix v 0.2.0.0 b 0.0.25.0  (Feb  3 2009) starting up...
+2010-05-11 11:19:49	I	msg:[MAIN] PID: 3716
+2010-05-11 11:19:49	I	msg:[MAIN] Loaded config from sc_trans.conf
+2010-05-11 11:19:49	I	msg:[MAIN] Streaming thread starting
+2010-05-11 11:19:49	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-11 11:19:49	I	msg:[MAIN] Encoder thread 0 starting
+2010-05-11 11:19:49	I	msg:[mp3enc] 2016618495/44100/2/96000 Fraunhofer IIS MP3s Encoder V04.01.00 (build 2007-03-15)
+2010-05-11 11:19:49	I	msg:[MAIN] broadcast thread 0 starting
+2010-05-11 11:19:49	I	msg:Using internal encoder sample rate of 44100 Hz, bandwidth 11892 Hz, MDCT low pass active
+
+2010-05-11 11:19:49	I	msg:[mp3enc] 2016618495/44100/2/96000 mp3 setup complete
+2010-05-11 11:19:49	I	msg:[STREAM] 1686232154 giving replay gain calculator a head start
+2010-05-11 11:19:49	I	msg:[rgCalc] thread running
+2010-05-11 11:19:49	I	msg:[STREAM] 1686232154 running
+2010-05-11 11:19:49	I	msg:[STREAM] 1686232154 Creating stream socket
+2010-05-11 11:19:49	I	msg:[STREAM] 1686232154 Resolving stream host
+2010-05-11 11:19:49	I	msg:[STREAM] 1686232154 Connected to host server
+2010-05-11 11:19:49	W	msg:[STREAM] 1686232154 Disconnecting from stream host [waiting 10s]
+2010-05-11 11:19:49	I	msg:[MAIN] Playlist decoder thread starting
+2010-05-11 11:19:49	I	msg:[decode] giving replay gain calculator a head start
+2010-05-11 11:19:49	I	msg:[decode] begin decoding
+2010-05-11 11:19:49	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-11 11:19:49	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4ccb4dcdb4301cc5b815d83ece235493.mp3
+2010-05-11 11:19:49	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-11 11:19:49	I	msg:[microServer] Listening for connection on port 9877
+2010-05-11 11:19:49	E	msg:[MAIN] Error opening port 9877 because Could not bind to :9877 because Address already in use
+2010-05-11 11:19:50	I	msg:[decode] 4ccb4dcdb4301cc5b815d83ece235493.mp3::1440833::90.0521
+2010-05-11 11:19:50	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-11 11:19:50	E	msg:API server startup error. Could not bind to :5555 because Address already in use
+2010-05-11 11:19:50	I	msg:[mp3enc] 2016618495/44100/2/96000 Exiting encoder thread
+2010-05-11 11:19:50	I	msg:[decode] Exiting decoder thread
+2010-05-11 11:19:50	I	msg:[rgCalc] thread exiting
+2010-05-11 11:19:50	I	msg:[resampler] tIn=0.0783673 tOut=0.0783673 bIn=6912 bOut=13824
+2010-05-11 11:19:50	I	msg:[crossfader] in=0.0783673 out=0
+2010-05-11 11:19:50	I	msg:<***>	Logger shutdown

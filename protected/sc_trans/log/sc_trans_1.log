@@ -1,0 +1,1576 @@
+2010-05-28 15:33:51	I	msg:<***>	Logger startup
+2010-05-28 15:33:51	I	msg:<***>	version 0.2.0.0 build 0.0.25.0
+2010-05-28 15:33:51	D	msg:<***>	
+2010-05-28 15:33:51	I	msg:[VUPush] 0 VU images loaded
+2010-05-28 15:33:51	I	msg:[VUPush] 0 VU images loaded
+2010-05-28 15:33:51	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:33:52	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:33:52	I	msg:[playlistMgr] load complete
+2010-05-28 15:33:52	I	msg:*******************************************************************************
+2010-05-28 15:33:52	I	msg:** TRANScast Distributed Network Audio Content Provider
+2010-05-28 15:33:52	I	msg:** Copyright (C) 2000 Nullsoft, Inc.  All Rights Reserved.
+2010-05-28 15:33:52	I	msg:** Use "sc_trans filename.conf" to specify a config file.
+2010-05-28 15:33:52	I	msg:*******************************************************************************
+2010-05-28 15:33:52	I	msg:[TRANSCast] DNAS/posix v 0.2.0.0 b 0.0.25.0  (Feb  3 2009) starting up...
+2010-05-28 15:33:52	I	msg:[MAIN] PID: 3010
+2010-05-28 15:33:52	I	msg:[MAIN] Loaded config from sc_trans.conf
+2010-05-28 15:33:52	I	msg:[MAIN] Streaming thread starting
+2010-05-28 15:33:52	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:33:52	I	msg:[MAIN] Encoder thread 0 starting
+2010-05-28 15:33:52	I	msg:[MAIN] broadcast thread 0 starting
+2010-05-28 15:33:52	I	msg:[mp3enc] 1040745780/44100/2/96000 Fraunhofer IIS MP3s Encoder V04.01.00 (build 2007-03-15)
+2010-05-28 15:33:52	I	msg:Using internal encoder sample rate of 44100 Hz, bandwidth 11892 Hz, MDCT low pass active
+
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 giving replay gain calculator a head start
+2010-05-28 15:33:52	I	msg:[rgCalc] thread running
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 running
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 Creating stream socket
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 Resolving stream host
+2010-05-28 15:33:52	I	msg:[MAIN] Playlist decoder thread starting
+2010-05-28 15:33:52	I	msg:[decode] giving replay gain calculator a head start
+2010-05-28 15:33:52	I	msg:[decode] begin decoding
+2010-05-28 15:33:52	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:33:52	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/b1d17a0fa94c0ba331076f228d508088.mp3
+2010-05-28 15:33:52	I	msg:[mp3enc] 1040745780/44100/2/96000 mp3 setup complete
+2010-05-28 15:33:52	I	msg:[microServer] Listening for connection on port 9877
+2010-05-28 15:33:52	I	msg:[MAIN] Broadcast Receiver thread starting
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 Connected to host server
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 Host server gave success (OK2)
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 Stream to localhost established
+2010-05-28 15:33:52	I	msg:[STREAM] 20863154 Sending stream information
+2010-05-28 15:33:52	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:33:52	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:33:52	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:33:52	I	msg:[decode] b1d17a0fa94c0ba331076f228d508088.mp3::1440833::90.0521
+2010-05-28 15:33:52	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:33:52	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:33:52	I	msg:[playlistMgr] load complete
+2010-05-28 15:33:52	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:33:52	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/5632b8f8a4aceec9457850b28435732a.mp3
+2010-05-28 15:33:52	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:33:52	I	msg:[decode] 5632b8f8a4aceec9457850b28435732a.mp3::1440833::90.0521
+2010-05-28 15:33:52	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:33:55	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:33:57	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:34:58	I	msg:[mp3 decode] 12812269 eof
+2010-05-28 15:34:58	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:34:58	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:34:58	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:34:59	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:34:59	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:35:22	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:35:22	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:35:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:35:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:35:23	I	msg:[playlistMgr] load complete
+2010-05-28 15:35:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:35:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/38a58005490102aa14bd1734f71c56c5.mp3
+2010-05-28 15:35:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:35:23	I	msg:[decode] 38a58005490102aa14bd1734f71c56c5.mp3::1440833::90.0521
+2010-05-28 15:35:23	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:35:26	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:35:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:36:50	I	msg:[mp3 decode] 1260405973 eof
+2010-05-28 15:36:51	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:36:51	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:36:51	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:36:51	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:36:51	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:36:52	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:36:52	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:36:53	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:36:53	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:36:53	I	msg:[playlistMgr] load complete
+2010-05-28 15:36:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:36:53	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4f008bb48a6ef9c0c9c658fa57a45079.mp3
+2010-05-28 15:36:53	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:36:53	I	msg:[decode] 4f008bb48a6ef9c0c9c658fa57a45079.mp3::1440833::90.0521
+2010-05-28 15:36:53	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:37:17	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:37:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:38:20	I	msg:[mp3 decode] 752633773 eof
+2010-05-28 15:38:20	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:38:20	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:38:20	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:38:20	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:38:20	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:38:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:38:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:38:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:38:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:38:23	I	msg:[playlistMgr] load complete
+2010-05-28 15:38:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:38:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/77bedc871b624f78deca71addf7886c4.mp3
+2010-05-28 15:38:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:38:23	I	msg:[decode] 77bedc871b624f78deca71addf7886c4.mp3::1440833::90.0521
+2010-05-28 15:38:23	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:38:47	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:38:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:39:50	I	msg:[mp3 decode] 689857186 eof
+2010-05-28 15:39:51	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:39:51	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:39:51	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:39:51	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:39:51	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:39:53	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:39:53	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:39:53	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:39:53	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:39:53	I	msg:[playlistMgr] load complete
+2010-05-28 15:39:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:39:53	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/c737659b2825c4af80b3d33f7c69414a.mp3
+2010-05-28 15:39:53	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:39:53	I	msg:[decode] c737659b2825c4af80b3d33f7c69414a.mp3::1440833::90.0521
+2010-05-28 15:39:53	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:40:17	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:40:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:41:20	I	msg:[mp3 decode] 17837200 eof
+2010-05-28 15:41:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:41:21	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:41:21	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:41:21	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:41:21	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:41:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:41:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:41:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:41:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:41:23	I	msg:[playlistMgr] load complete
+2010-05-28 15:41:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:41:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/554b269d71376bcdc400f450ced3cd86.mp3
+2010-05-28 15:41:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:41:23	I	msg:[decode] 554b269d71376bcdc400f450ced3cd86.mp3::1440833::90.0521
+2010-05-28 15:41:23	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:41:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:41:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:42:50	I	msg:[mp3 decode] 1930457269 eof
+2010-05-28 15:42:51	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:42:51	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:42:51	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:42:51	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:42:51	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:42:53	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:42:53	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:42:53	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:42:53	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:42:53	I	msg:[playlistMgr] load complete
+2010-05-28 15:42:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:42:53	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/b1d17a0fa94c0ba331076f228d508088.mp3
+2010-05-28 15:42:53	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:42:53	I	msg:[decode] b1d17a0fa94c0ba331076f228d508088.mp3::1440833::90.0521
+2010-05-28 15:42:53	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:43:17	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:43:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:44:20	I	msg:[mp3 decode] 672373959 eof
+2010-05-28 15:44:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:44:21	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:44:21	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:44:21	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:44:21	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:44:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:44:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:44:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:44:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:44:23	I	msg:[playlistMgr] load complete
+2010-05-28 15:44:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:44:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f0bb22c3a44877594c2beddf8eef2a4.mp3
+2010-05-28 15:44:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:44:23	I	msg:[decode] 2f0bb22c3a44877594c2beddf8eef2a4.mp3::1440833::90.0521
+2010-05-28 15:44:23	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:44:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:44:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:45:50	I	msg:[mp3 decode] 660596265 eof
+2010-05-28 15:45:51	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:45:51	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:45:51	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:45:51	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:45:51	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:45:53	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:45:53	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:45:53	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:45:53	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:45:53	I	msg:[playlistMgr] load complete
+2010-05-28 15:45:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:45:53	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2819dbe39cf0bbe21efd3b5761b073d.mp3
+2010-05-28 15:45:53	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:45:53	I	msg:[decode] d2819dbe39cf0bbe21efd3b5761b073d.mp3::1440833::90.0521
+2010-05-28 15:45:53	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:46:18	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:46:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:47:21	I	msg:[mp3 decode] 1836833758 eof
+2010-05-28 15:47:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:47:21	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:47:21	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:47:21	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:47:21	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:47:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:47:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:47:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:47:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:47:23	I	msg:[playlistMgr] load complete
+2010-05-28 15:47:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:47:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/910f919423af4aefb07080a96d71d7d1.mp3
+2010-05-28 15:47:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:47:23	I	msg:[decode] 910f919423af4aefb07080a96d71d7d1.mp3::1440833::90.0521
+2010-05-28 15:47:23	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:47:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:47:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:48:51	I	msg:[mp3 decode] 733662627 eof
+2010-05-28 15:48:51	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:48:51	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:48:51	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:48:51	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:48:51	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:48:53	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:48:53	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:48:54	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:48:54	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:48:54	I	msg:[playlistMgr] load complete
+2010-05-28 15:48:54	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:48:54	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/e60e1f01303f366a22772e6b9aa424d7.mp3
+2010-05-28 15:48:54	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:48:54	I	msg:[decode] e60e1f01303f366a22772e6b9aa424d7.mp3::1440833::90.0521
+2010-05-28 15:48:54	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:49:18	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:49:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:50:21	I	msg:[mp3 decode] 1992437950 eof
+2010-05-28 15:50:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:50:21	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:50:21	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:50:21	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:50:21	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:50:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:50:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:50:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:50:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:50:23	I	msg:[playlistMgr] load complete
+2010-05-28 15:50:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:50:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2b2a29bd210266e8871f2211c3d2e61.mp3
+2010-05-28 15:50:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:50:24	I	msg:[decode] d2b2a29bd210266e8871f2211c3d2e61.mp3::1440833::90.0521
+2010-05-28 15:50:24	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:50:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:50:51	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:51:51	I	msg:[mp3 decode] 1388574397 eof
+2010-05-28 15:51:51	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:51:51	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:51:51	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:51:51	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:51:51	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:51:54	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:51:54	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:51:54	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:51:54	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:51:54	I	msg:[playlistMgr] load complete
+2010-05-28 15:51:54	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:51:54	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/0ce61397757e8155fbd24ac555c56370.mp3
+2010-05-28 15:51:54	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:51:54	I	msg:[decode] 0ce61397757e8155fbd24ac555c56370.mp3::1440833::90.0521
+2010-05-28 15:51:54	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:52:18	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:52:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:53:21	I	msg:[mp3 decode] 1725255120 eof
+2010-05-28 15:53:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:53:22	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:53:22	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:53:22	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:53:22	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:53:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:53:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:53:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:53:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:53:24	I	msg:[playlistMgr] load complete
+2010-05-28 15:53:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:53:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/b558421cb867faefbf2a7dac132d4f5f.mp3
+2010-05-28 15:53:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:53:24	I	msg:[decode] b558421cb867faefbf2a7dac132d4f5f.mp3::1440833::90.0521
+2010-05-28 15:53:24	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:53:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:53:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:54:51	I	msg:[mp3 decode] 933103433 eof
+2010-05-28 15:54:52	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:54:52	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:54:52	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:54:52	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:54:52	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:54:54	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:54:54	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:54:54	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:54:54	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:54:54	I	msg:[playlistMgr] load complete
+2010-05-28 15:54:54	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:54:54	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/7a7d7c880e3bbb515a3f1ba0969c3d08.mp3
+2010-05-28 15:54:54	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:54:54	I	msg:[decode] 7a7d7c880e3bbb515a3f1ba0969c3d08.mp3::1440833::90.0521
+2010-05-28 15:54:54	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:55:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:55:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:56:21	I	msg:[mp3 decode] 1365409212 eof
+2010-05-28 15:56:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:56:22	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:56:22	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:56:22	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:56:22	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:56:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:56:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:56:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:56:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:56:24	I	msg:[playlistMgr] load complete
+2010-05-28 15:56:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:56:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100528/048f7ee79e47470180a7b2679247414b.mp3
+2010-05-28 15:56:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:56:24	I	msg:[decode] 048f7ee79e47470180a7b2679247414b.mp3::1440833::90.0521
+2010-05-28 15:56:24	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:56:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:56:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:57:51	I	msg:[mp3 decode] 195685608 eof
+2010-05-28 15:57:52	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:57:52	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:57:52	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:57:52	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:57:52	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:57:54	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:57:54	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:57:54	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:57:54	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:57:54	I	msg:[playlistMgr] load complete
+2010-05-28 15:57:54	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:57:54	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/cc944674a9df092674f7e2396cb20b06.mp3
+2010-05-28 15:57:54	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:57:54	I	msg:[decode] cc944674a9df092674f7e2396cb20b06.mp3::1440833::90.0521
+2010-05-28 15:57:54	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:58:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:58:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:59:21	I	msg:[mp3 decode] 1574270151 eof
+2010-05-28 15:59:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:59:22	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 15:59:22	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 15:59:22	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 15:59:22	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 15:59:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 15:59:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 15:59:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 15:59:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 15:59:24	I	msg:[playlistMgr] load complete
+2010-05-28 15:59:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 15:59:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f59939d65497ef6285e322bb9b8f67a.mp3
+2010-05-28 15:59:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 15:59:24	I	msg:[decode] 2f59939d65497ef6285e322bb9b8f67a.mp3::1440833::90.0521
+2010-05-28 15:59:24	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 15:59:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 15:59:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:00:52	I	msg:[mp3 decode] 1053603700 eof
+2010-05-28 16:00:52	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:00:52	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:00:52	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:00:52	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:00:52	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:00:54	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:00:54	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:00:54	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:00:54	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:00:54	I	msg:[playlistMgr] load complete
+2010-05-28 16:00:54	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:00:54	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/6b2b2f0dfb5ba5d64ce901badb727ce1.mp3
+2010-05-28 16:00:54	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:00:54	I	msg:[decode] 6b2b2f0dfb5ba5d64ce901badb727ce1.mp3::1440833::90.0521
+2010-05-28 16:00:54	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:01:18	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:01:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:02:22	I	msg:[mp3 decode] 809763969 eof
+2010-05-28 16:02:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:02:22	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:02:22	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:02:22	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:02:22	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:02:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:02:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:02:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:02:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:02:24	I	msg:[playlistMgr] load complete
+2010-05-28 16:02:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:02:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/8a89006b279e67a3fd74e0c5e02ae629.mp3
+2010-05-28 16:02:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:02:24	I	msg:[decode] 8a89006b279e67a3fd74e0c5e02ae629.mp3::1440833::90.0521
+2010-05-28 16:02:24	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:02:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:02:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:03:52	I	msg:[mp3 decode] 1743395778 eof
+2010-05-28 16:03:52	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:03:52	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:03:52	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:03:52	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:03:52	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:03:54	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:03:54	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:03:54	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:03:54	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:03:54	I	msg:[playlistMgr] load complete
+2010-05-28 16:03:54	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:03:54	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/51bd74d9bfb0fdd181ea4c9e028fea3e.mp3
+2010-05-28 16:03:54	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:03:54	I	msg:[decode] 51bd74d9bfb0fdd181ea4c9e028fea3e.mp3::1440833::90.0521
+2010-05-28 16:03:54	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:04:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:04:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:05:22	I	msg:[mp3 decode] 2019138135 eof
+2010-05-28 16:05:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:05:22	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:05:22	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:05:22	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:05:22	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:05:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:05:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:05:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:05:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:05:24	I	msg:[playlistMgr] load complete
+2010-05-28 16:05:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:05:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/ea2912c79df9edb411e97bf93537783d.mp3
+2010-05-28 16:05:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:05:25	I	msg:[decode] ea2912c79df9edb411e97bf93537783d.mp3::1440833::90.0521
+2010-05-28 16:05:25	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:05:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:05:52	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:06:52	I	msg:[mp3 decode] 32866844 eof
+2010-05-28 16:06:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:06:53	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:06:53	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:06:53	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:06:53	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:06:55	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:06:55	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:06:55	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:06:55	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:06:55	I	msg:[playlistMgr] load complete
+2010-05-28 16:06:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:06:55	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/a53d6428c1c6257a5839d3afa2f2ed15.mp3
+2010-05-28 16:06:55	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:06:55	I	msg:[decode] a53d6428c1c6257a5839d3afa2f2ed15.mp3::1440833::90.0521
+2010-05-28 16:06:55	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:07:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:07:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:08:22	I	msg:[mp3 decode] 1696049935 eof
+2010-05-28 16:08:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:08:22	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:08:22	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:08:22	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:08:22	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:08:25	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:08:25	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:08:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:08:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:08:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:08:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:08:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/04e7de8486362befdbda13c967714677.mp3
+2010-05-28 16:08:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:08:25	I	msg:[decode] 04e7de8486362befdbda13c967714677.mp3::1440833::90.0521
+2010-05-28 16:08:25	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:08:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:08:51	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:09:52	I	msg:[mp3 decode] 803880411 eof
+2010-05-28 16:09:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:09:53	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:09:53	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:09:53	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:09:53	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:09:55	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:09:55	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:09:55	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:09:55	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:09:55	I	msg:[playlistMgr] load complete
+2010-05-28 16:09:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:09:55	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/c737659b2825c4af80b3d33f7c69414a.mp3
+2010-05-28 16:09:55	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:09:55	I	msg:[decode] c737659b2825c4af80b3d33f7c69414a.mp3::1440833::90.0521
+2010-05-28 16:09:55	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:10:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:10:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:11:22	I	msg:[mp3 decode] 142322477 eof
+2010-05-28 16:11:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:11:23	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:11:23	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:11:23	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:11:23	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:11:25	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:11:25	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:11:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:11:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:11:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:11:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:11:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/02fca9aa0db2a6db27d86d38e03fac18.mp3
+2010-05-28 16:11:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:11:25	I	msg:[decode] 02fca9aa0db2a6db27d86d38e03fac18.mp3::1440833::90.0521
+2010-05-28 16:11:25	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:11:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:11:52	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:12:52	I	msg:[mp3 decode] 2061515325 eof
+2010-05-28 16:12:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:12:53	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:12:53	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:12:53	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:12:53	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:12:55	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:12:55	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:12:55	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:12:55	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:12:55	I	msg:[playlistMgr] load complete
+2010-05-28 16:12:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:12:55	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/5632b8f8a4aceec9457850b28435732a.mp3
+2010-05-28 16:12:55	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:12:55	I	msg:[decode] 5632b8f8a4aceec9457850b28435732a.mp3::1440833::90.0521
+2010-05-28 16:12:55	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:13:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:13:22	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:14:22	I	msg:[mp3 decode] 805841324 eof
+2010-05-28 16:14:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:14:23	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:14:23	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:14:23	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:14:23	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:14:25	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:14:25	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:14:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:14:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:14:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:14:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:14:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4f008bb48a6ef9c0c9c658fa57a45079.mp3
+2010-05-28 16:14:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:14:25	I	msg:[decode] 4f008bb48a6ef9c0c9c658fa57a45079.mp3::1440833::90.0521
+2010-05-28 16:14:25	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:14:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:14:51	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:15:52	I	msg:[mp3 decode] 1478940412 eof
+2010-05-28 16:15:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:15:53	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:15:53	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:15:53	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:15:53	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:15:55	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:15:55	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:15:55	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:15:55	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:15:55	I	msg:[playlistMgr] load complete
+2010-05-28 16:15:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:15:55	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/b1d17a0fa94c0ba331076f228d508088.mp3
+2010-05-28 16:15:55	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:15:55	I	msg:[decode] b1d17a0fa94c0ba331076f228d508088.mp3::1440833::90.0521
+2010-05-28 16:15:55	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:16:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:16:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:17:23	I	msg:[mp3 decode] 1627269507 eof
+2010-05-28 16:17:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:17:23	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:17:23	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:17:23	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:17:23	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:17:25	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:17:25	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:17:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:17:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:17:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:17:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:17:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4ccb4dcdb4301cc5b815d83ece235493.mp3
+2010-05-28 16:17:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:17:25	I	msg:[decode] 4ccb4dcdb4301cc5b815d83ece235493.mp3::1440833::90.0521
+2010-05-28 16:17:25	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:17:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:17:51	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:18:53	I	msg:[mp3 decode] 395205266 eof
+2010-05-28 16:18:53	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:18:53	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:18:53	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:18:53	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:18:53	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:18:55	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:18:55	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:18:55	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:18:55	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:18:55	I	msg:[playlistMgr] load complete
+2010-05-28 16:18:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:18:55	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f0bb22c3a44877594c2beddf8eef2a4.mp3
+2010-05-28 16:18:55	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:18:55	I	msg:[decode] 2f0bb22c3a44877594c2beddf8eef2a4.mp3::1440833::90.0521
+2010-05-28 16:18:55	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:19:05	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:05	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:05	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:05	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:05	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:05	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:05	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/74bfc5f2221f77b3dfa56d657b5ba248.mp3
+2010-05-28 16:19:05	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:05	I	msg:[decode] 74bfc5f2221f77b3dfa56d657b5ba248.mp3::1440833::90.0521
+2010-05-28 16:19:06	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:06	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:06	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:06	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:06	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:06	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:06	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/38a58005490102aa14bd1734f71c56c5.mp3
+2010-05-28 16:19:06	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:06	I	msg:[decode] 38a58005490102aa14bd1734f71c56c5.mp3::1440833::90.0521
+2010-05-28 16:19:07	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:07	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:07	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:07	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:07	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:07	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:07	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/77bedc871b624f78deca71addf7886c4.mp3
+2010-05-28 16:19:07	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:07	I	msg:[decode] 77bedc871b624f78deca71addf7886c4.mp3::1440833::90.0521
+2010-05-28 16:19:07	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:07	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:07	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:07	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:07	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:07	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:07	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2819dbe39cf0bbe21efd3b5761b073d.mp3
+2010-05-28 16:19:07	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:07	I	msg:[decode] d2819dbe39cf0bbe21efd3b5761b073d.mp3::1440833::90.0521
+2010-05-28 16:19:08	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:08	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:08	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:08	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:08	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:08	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:08	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/e60e1f01303f366a22772e6b9aa424d7.mp3
+2010-05-28 16:19:08	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:08	I	msg:[decode] e60e1f01303f366a22772e6b9aa424d7.mp3::1440833::90.0521
+2010-05-28 16:19:09	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:09	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:09	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:09	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:09	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:09	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:09	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/910f919423af4aefb07080a96d71d7d1.mp3
+2010-05-28 16:19:09	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:09	I	msg:[decode] 910f919423af4aefb07080a96d71d7d1.mp3::1440833::90.0521
+2010-05-28 16:19:09	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:09	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:09	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:09	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:09	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:09	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:09	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/554b269d71376bcdc400f450ced3cd86.mp3
+2010-05-28 16:19:09	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:10	I	msg:[decode] 554b269d71376bcdc400f450ced3cd86.mp3::1440833::90.0521
+2010-05-28 16:19:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:31	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:32	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:33	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:34	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:35	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:35	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:35	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:35	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:35	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:35	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:35	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:35	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/212a42d9d06a6a7417ef97ba6e7f0da7.mp3
+2010-05-28 16:19:35	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:19:35	I	msg:[decode] 212a42d9d06a6a7417ef97ba6e7f0da7.mp3::1440833::90.0521
+2010-05-28 16:19:36	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:36	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:36	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:36	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:36	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:36	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:36	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:36	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:19:36	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:19:36	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:19:36	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:19:37	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:37	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:37	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:37	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:37	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:37	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:37	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:19:37	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:19:37	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:19:37	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:19:37	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:37	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:37	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:37	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:37	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:37	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:37	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:19:37	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:19:37	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:19:38	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:38	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:38	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:38	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:38	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:38	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:38	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:19:38	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:19:38	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:19:42	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:19:42	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:19:42	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:42	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:19:42	I	msg:[playlistMgr] load complete
+2010-05-28 16:19:42	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:19:42	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:19:42	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:19:42	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:20:01	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:02	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:03	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:04	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:05	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:08	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:17	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:17	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:17	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:17	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:17	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:17	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:17	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/0ce61397757e8155fbd24ac555c56370.mp3
+2010-05-28 16:20:17	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:17	I	msg:[decode] 0ce61397757e8155fbd24ac555c56370.mp3::1440833::90.0521
+2010-05-28 16:20:17	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:20:19	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:19	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:19	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:19	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:19	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:19	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:19	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/74bfc5f2221f77b3dfa56d657b5ba248.mp3
+2010-05-28 16:20:19	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:19	I	msg:[decode] 74bfc5f2221f77b3dfa56d657b5ba248.mp3::1440833::90.0521
+2010-05-28 16:20:19	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:19	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:19	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:19	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:19	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:19	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:19	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/04e7de8486362befdbda13c967714677.mp3
+2010-05-28 16:20:19	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:19	I	msg:[decode] 04e7de8486362befdbda13c967714677.mp3::1440833::90.0521
+2010-05-28 16:20:20	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:20	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:20	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:20	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:20	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:20	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:20	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/7a7d7c880e3bbb515a3f1ba0969c3d08.mp3
+2010-05-28 16:20:20	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:20	I	msg:[decode] 7a7d7c880e3bbb515a3f1ba0969c3d08.mp3::1440833::90.0521
+2010-05-28 16:20:20	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:20	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:20	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:20	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:20	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:20	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:20	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f59939d65497ef6285e322bb9b8f67a.mp3
+2010-05-28 16:20:20	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:20	I	msg:[decode] 2f59939d65497ef6285e322bb9b8f67a.mp3::1440833::90.0521
+2010-05-28 16:20:21	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:21	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:21	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:21	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:21	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:21	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2b2a29bd210266e8871f2211c3d2e61.mp3
+2010-05-28 16:20:21	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:21	I	msg:[decode] d2b2a29bd210266e8871f2211c3d2e61.mp3::1440833::90.0521
+2010-05-28 16:20:21	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:21	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:21	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:21	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:21	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:21	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/5632b8f8a4aceec9457850b28435732a.mp3
+2010-05-28 16:20:21	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:21	I	msg:[decode] 5632b8f8a4aceec9457850b28435732a.mp3::1440833::90.0521
+2010-05-28 16:20:21	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:21	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:21	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:21	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:21	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:21	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:21	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/8a89006b279e67a3fd74e0c5e02ae629.mp3
+2010-05-28 16:20:21	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:21	I	msg:[decode] 8a89006b279e67a3fd74e0c5e02ae629.mp3::1440833::90.0521
+2010-05-28 16:20:22	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:22	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:22	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:22	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:22	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:22	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/a53d6428c1c6257a5839d3afa2f2ed15.mp3
+2010-05-28 16:20:22	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:22	I	msg:[decode] a53d6428c1c6257a5839d3afa2f2ed15.mp3::1440833::90.0521
+2010-05-28 16:20:22	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:22	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:22	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:22	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:22	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:22	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:22	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/554b269d71376bcdc400f450ced3cd86.mp3
+2010-05-28 16:20:22	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:22	I	msg:[decode] 554b269d71376bcdc400f450ced3cd86.mp3::1440833::90.0521
+2010-05-28 16:20:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:23	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/6b2b2f0dfb5ba5d64ce901badb727ce1.mp3
+2010-05-28 16:20:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:23	I	msg:[decode] 6b2b2f0dfb5ba5d64ce901badb727ce1.mp3::1440833::90.0521
+2010-05-28 16:20:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:23	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:23	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:23	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:23	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:23	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f0bb22c3a44877594c2beddf8eef2a4.mp3
+2010-05-28 16:20:23	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:23	I	msg:[decode] 2f0bb22c3a44877594c2beddf8eef2a4.mp3::1440833::90.0521
+2010-05-28 16:20:23	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:23	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:24	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/212a42d9d06a6a7417ef97ba6e7f0da7.mp3
+2010-05-28 16:20:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:24	I	msg:[decode] 212a42d9d06a6a7417ef97ba6e7f0da7.mp3::1440833::90.0521
+2010-05-28 16:20:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:24	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f0bb22c3a44877594c2beddf8eef2a4.mp3
+2010-05-28 16:20:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:24	I	msg:[decode] 2f0bb22c3a44877594c2beddf8eef2a4.mp3::1440833::90.0521
+2010-05-28 16:20:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:24	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:24	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:24	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:24	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2b2a29bd210266e8871f2211c3d2e61.mp3
+2010-05-28 16:20:24	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:24	I	msg:[decode] d2b2a29bd210266e8871f2211c3d2e61.mp3::1440833::90.0521
+2010-05-28 16:20:24	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:24	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/212a42d9d06a6a7417ef97ba6e7f0da7.mp3
+2010-05-28 16:20:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:25	I	msg:[decode] 212a42d9d06a6a7417ef97ba6e7f0da7.mp3::1440833::90.0521
+2010-05-28 16:20:25	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:25	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f59939d65497ef6285e322bb9b8f67a.mp3
+2010-05-28 16:20:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:25	I	msg:[decode] 2f59939d65497ef6285e322bb9b8f67a.mp3::1440833::90.0521
+2010-05-28 16:20:25	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:25	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:25	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:25	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:25	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:25	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/77bedc871b624f78deca71addf7886c4.mp3
+2010-05-28 16:20:25	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:25	I	msg:[decode] 77bedc871b624f78deca71addf7886c4.mp3::1440833::90.0521
+2010-05-28 16:20:26	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:26	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:26	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:26	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:26	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:26	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:26	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/cc944674a9df092674f7e2396cb20b06.mp3
+2010-05-28 16:20:26	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:26	I	msg:[decode] cc944674a9df092674f7e2396cb20b06.mp3::1440833::90.0521
+2010-05-28 16:20:26	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:26	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:26	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:26	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:26	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:26	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:26	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/a53d6428c1c6257a5839d3afa2f2ed15.mp3
+2010-05-28 16:20:26	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:26	I	msg:[decode] a53d6428c1c6257a5839d3afa2f2ed15.mp3::1440833::90.0521
+2010-05-28 16:20:26	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:26	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:26	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:26	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:26	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:26	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:26	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/7a7d7c880e3bbb515a3f1ba0969c3d08.mp3
+2010-05-28 16:20:26	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:26	I	msg:[decode] 7a7d7c880e3bbb515a3f1ba0969c3d08.mp3::1440833::90.0521
+2010-05-28 16:20:26	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:26	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:27	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:27	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:27	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:27	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/5632b8f8a4aceec9457850b28435732a.mp3
+2010-05-28 16:20:27	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:27	I	msg:[decode] 5632b8f8a4aceec9457850b28435732a.mp3::1440833::90.0521
+2010-05-28 16:20:27	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:27	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:27	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:27	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:27	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:27	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/910f919423af4aefb07080a96d71d7d1.mp3
+2010-05-28 16:20:27	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:27	I	msg:[decode] 910f919423af4aefb07080a96d71d7d1.mp3::1440833::90.0521
+2010-05-28 16:20:27	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:27	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:27	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:27	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:27	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:27	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f0bb22c3a44877594c2beddf8eef2a4.mp3
+2010-05-28 16:20:27	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:27	I	msg:[decode] 2f0bb22c3a44877594c2beddf8eef2a4.mp3::1440833::90.0521
+2010-05-28 16:20:27	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:27	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:28	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:28	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:28	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:28	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:28	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/a53d6428c1c6257a5839d3afa2f2ed15.mp3
+2010-05-28 16:20:28	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:28	I	msg:[decode] a53d6428c1c6257a5839d3afa2f2ed15.mp3::1440833::90.0521
+2010-05-28 16:20:28	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:28	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:28	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:28	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:28	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:28	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:28	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/ea2912c79df9edb411e97bf93537783d.mp3
+2010-05-28 16:20:28	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:28	I	msg:[decode] ea2912c79df9edb411e97bf93537783d.mp3::1440833::90.0521
+2010-05-28 16:20:28	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:28	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:28	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:28	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:28	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:28	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:28	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2b2a29bd210266e8871f2211c3d2e61.mp3
+2010-05-28 16:20:28	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:28	I	msg:[decode] d2b2a29bd210266e8871f2211c3d2e61.mp3::1440833::90.0521
+2010-05-28 16:20:29	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:29	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:29	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:29	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:29	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:29	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:29	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/0ce61397757e8155fbd24ac555c56370.mp3
+2010-05-28 16:20:29	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:29	I	msg:[decode] 0ce61397757e8155fbd24ac555c56370.mp3::1440833::90.0521
+2010-05-28 16:20:29	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:29	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:29	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:29	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:29	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:29	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:29	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4f008bb48a6ef9c0c9c658fa57a45079.mp3
+2010-05-28 16:20:29	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:29	I	msg:[decode] 4f008bb48a6ef9c0c9c658fa57a45079.mp3::1440833::90.0521
+2010-05-28 16:20:29	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:29	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:29	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:29	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:29	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:29	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:29	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100528/048f7ee79e47470180a7b2679247414b.mp3
+2010-05-28 16:20:29	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:29	I	msg:[decode] 048f7ee79e47470180a7b2679247414b.mp3::1440833::90.0521
+2010-05-28 16:20:30	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:30	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:30	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:30	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:30	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:30	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:30	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4ccb4dcdb4301cc5b815d83ece235493.mp3
+2010-05-28 16:20:30	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:30	I	msg:[decode] 4ccb4dcdb4301cc5b815d83ece235493.mp3::1440833::90.0521
+2010-05-28 16:20:30	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:30	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:30	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:30	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:30	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:30	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:30	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/04e7de8486362befdbda13c967714677.mp3
+2010-05-28 16:20:30	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:30	I	msg:[decode] 04e7de8486362befdbda13c967714677.mp3::1440833::90.0521
+2010-05-28 16:20:30	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:30	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:30	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:30	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:30	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:30	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:30	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/554b269d71376bcdc400f450ced3cd86.mp3
+2010-05-28 16:20:30	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:30	I	msg:[decode] 554b269d71376bcdc400f450ced3cd86.mp3::1440833::90.0521
+2010-05-28 16:20:31	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:31	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:31	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:31	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:31	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:31	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:31	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f59939d65497ef6285e322bb9b8f67a.mp3
+2010-05-28 16:20:31	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:31	I	msg:[decode] 2f59939d65497ef6285e322bb9b8f67a.mp3::1440833::90.0521
+2010-05-28 16:20:32	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:32	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:32	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:32	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:32	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:32	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:32	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4f008bb48a6ef9c0c9c658fa57a45079.mp3
+2010-05-28 16:20:32	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:32	I	msg:[decode] 4f008bb48a6ef9c0c9c658fa57a45079.mp3::1440833::90.0521
+2010-05-28 16:20:32	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:32	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:32	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:32	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:32	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:32	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:32	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/ea2912c79df9edb411e97bf93537783d.mp3
+2010-05-28 16:20:32	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:32	I	msg:[decode] ea2912c79df9edb411e97bf93537783d.mp3::1440833::90.0521
+2010-05-28 16:20:32	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:32	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:32	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:32	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:32	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:32	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:32	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/0ce61397757e8155fbd24ac555c56370.mp3
+2010-05-28 16:20:32	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:32	I	msg:[decode] 0ce61397757e8155fbd24ac555c56370.mp3::1440833::90.0521
+2010-05-28 16:20:33	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:33	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:33	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:33	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:33	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:33	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:33	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/910f919423af4aefb07080a96d71d7d1.mp3
+2010-05-28 16:20:33	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:33	I	msg:[decode] 910f919423af4aefb07080a96d71d7d1.mp3::1440833::90.0521
+2010-05-28 16:20:33	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:33	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:33	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:33	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:33	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:33	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:33	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/554b269d71376bcdc400f450ced3cd86.mp3
+2010-05-28 16:20:33	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:33	I	msg:[decode] 554b269d71376bcdc400f450ced3cd86.mp3::1440833::90.0521
+2010-05-28 16:20:34	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:34	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:34	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:34	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:34	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:34	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:34	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/38a58005490102aa14bd1734f71c56c5.mp3
+2010-05-28 16:20:34	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:34	I	msg:[decode] 38a58005490102aa14bd1734f71c56c5.mp3::1440833::90.0521
+2010-05-28 16:20:34	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:34	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:34	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:34	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:34	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:34	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:34	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/c737659b2825c4af80b3d33f7c69414a.mp3
+2010-05-28 16:20:34	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:34	I	msg:[decode] c737659b2825c4af80b3d33f7c69414a.mp3::1440833::90.0521
+2010-05-28 16:20:34	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:34	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:34	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:34	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:34	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:34	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:34	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/e60e1f01303f366a22772e6b9aa424d7.mp3
+2010-05-28 16:20:34	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:34	I	msg:[decode] e60e1f01303f366a22772e6b9aa424d7.mp3::1440833::90.0521
+2010-05-28 16:20:35	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:35	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:35	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:35	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:35	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:35	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:35	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4ccb4dcdb4301cc5b815d83ece235493.mp3
+2010-05-28 16:20:35	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:35	I	msg:[decode] 4ccb4dcdb4301cc5b815d83ece235493.mp3::1440833::90.0521
+2010-05-28 16:20:35	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:35	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:35	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:35	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:35	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:35	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:35	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/c737659b2825c4af80b3d33f7c69414a.mp3
+2010-05-28 16:20:35	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:35	I	msg:[decode] c737659b2825c4af80b3d33f7c69414a.mp3::1440833::90.0521
+2010-05-28 16:20:35	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:35	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:35	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:35	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:35	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:35	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:35	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/910f919423af4aefb07080a96d71d7d1.mp3
+2010-05-28 16:20:35	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:35	I	msg:[decode] 910f919423af4aefb07080a96d71d7d1.mp3::1440833::90.0521
+2010-05-28 16:20:36	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:36	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:36	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:36	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:36	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:36	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:36	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/5632b8f8a4aceec9457850b28435732a.mp3
+2010-05-28 16:20:36	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:36	I	msg:[decode] 5632b8f8a4aceec9457850b28435732a.mp3::1440833::90.0521
+2010-05-28 16:20:36	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:36	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:36	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:36	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:36	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:36	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:36	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/8a89006b279e67a3fd74e0c5e02ae629.mp3
+2010-05-28 16:20:36	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:36	I	msg:[decode] 8a89006b279e67a3fd74e0c5e02ae629.mp3::1440833::90.0521
+2010-05-28 16:20:37	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:37	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:37	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:37	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:37	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:37	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:37	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/7a7d7c880e3bbb515a3f1ba0969c3d08.mp3
+2010-05-28 16:20:37	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:37	I	msg:[decode] 7a7d7c880e3bbb515a3f1ba0969c3d08.mp3::1440833::90.0521
+2010-05-28 16:20:37	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:37	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:37	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:37	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:37	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:37	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:37	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2b2a29bd210266e8871f2211c3d2e61.mp3
+2010-05-28 16:20:37	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:37	I	msg:[decode] d2b2a29bd210266e8871f2211c3d2e61.mp3::1440833::90.0521
+2010-05-28 16:20:37	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:37	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:37	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:37	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:37	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:37	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:37	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/b1d17a0fa94c0ba331076f228d508088.mp3
+2010-05-28 16:20:37	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:37	I	msg:[decode] b1d17a0fa94c0ba331076f228d508088.mp3::1440833::90.0521
+2010-05-28 16:20:38	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:38	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:38	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:38	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:38	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:38	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:38	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/c737659b2825c4af80b3d33f7c69414a.mp3
+2010-05-28 16:20:38	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:38	I	msg:[decode] c737659b2825c4af80b3d33f7c69414a.mp3::1440833::90.0521
+2010-05-28 16:20:38	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:38	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:38	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:38	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:38	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:38	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:38	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100528/048f7ee79e47470180a7b2679247414b.mp3
+2010-05-28 16:20:38	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:38	I	msg:[decode] 048f7ee79e47470180a7b2679247414b.mp3::1440833::90.0521
+2010-05-28 16:20:38	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:38	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:38	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:38	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:38	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:38	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:38	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2819dbe39cf0bbe21efd3b5761b073d.mp3
+2010-05-28 16:20:38	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:38	I	msg:[decode] d2819dbe39cf0bbe21efd3b5761b073d.mp3::1440833::90.0521
+2010-05-28 16:20:39	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:39	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:39	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:39	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:39	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:39	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:39	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100528/048f7ee79e47470180a7b2679247414b.mp3
+2010-05-28 16:20:39	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:39	I	msg:[decode] 048f7ee79e47470180a7b2679247414b.mp3::1440833::90.0521
+2010-05-28 16:20:39	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:39	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:39	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:39	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:39	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:39	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:39	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/38a58005490102aa14bd1734f71c56c5.mp3
+2010-05-28 16:20:39	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:39	I	msg:[decode] 38a58005490102aa14bd1734f71c56c5.mp3::1440833::90.0521
+2010-05-28 16:20:40	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:40	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:40	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:40	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:40	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:40	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:40	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/4f008bb48a6ef9c0c9c658fa57a45079.mp3
+2010-05-28 16:20:40	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:40	I	msg:[decode] 4f008bb48a6ef9c0c9c658fa57a45079.mp3::1440833::90.0521
+2010-05-28 16:20:40	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:20:40	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:20:40	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:40	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:20:40	I	msg:[playlistMgr] load complete
+2010-05-28 16:20:40	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:20:40	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/38a58005490102aa14bd1734f71c56c5.mp3
+2010-05-28 16:20:40	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:20:40	I	msg:[decode] 38a58005490102aa14bd1734f71c56c5.mp3::1440833::90.0521
+2010-05-28 16:20:43	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:45	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:46	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:47	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:48	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:49	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:50	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:51	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:52	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:53	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:54	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:55	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:56	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:57	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:58	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:20:59	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:00	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:01	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:02	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:03	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:04	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:05	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:06	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:07	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:08	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:09	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:10	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:11	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:12	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:13	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:14	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:15	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:16	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:17	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:18	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:19	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:20	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:22	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:23	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:24	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:25	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:26	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:27	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:28	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:29	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:30	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:31	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:32	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:33	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:34	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:35	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:36	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:37	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:38	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:39	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:40	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:21:56	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:21:56	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:21:56	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:21:56	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:21:56	I	msg:[playlistMgr] load complete
+2010-05-28 16:21:56	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:21:56	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/02fca9aa0db2a6db27d86d38e03fac18.mp3
+2010-05-28 16:21:56	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:21:56	I	msg:[decode] 02fca9aa0db2a6db27d86d38e03fac18.mp3::1440833::90.0521
+2010-05-28 16:22:22	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:23:24	I	msg:[mp3 decode] 476268565 eof
+2010-05-28 16:23:24	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:23:24	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:23:24	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:23:24	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:23:24	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:23:27	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:23:27	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:23:27	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:23:27	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:23:27	I	msg:[playlistMgr] load complete
+2010-05-28 16:23:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:23:27	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/c737659b2825c4af80b3d33f7c69414a.mp3
+2010-05-28 16:23:27	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:23:27	I	msg:[decode] c737659b2825c4af80b3d33f7c69414a.mp3::1440833::90.0521
+2010-05-28 16:23:27	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:23:51	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:23:53	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:24:54	I	msg:[mp3 decode] 353058769 eof
+2010-05-28 16:24:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:24:55	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:24:55	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:24:55	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:24:55	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:24:57	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:24:57	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:24:57	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:24:57	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:24:57	I	msg:[playlistMgr] load complete
+2010-05-28 16:24:57	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:24:57	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/04e7de8486362befdbda13c967714677.mp3
+2010-05-28 16:24:57	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:24:57	I	msg:[decode] 04e7de8486362befdbda13c967714677.mp3::1440833::90.0521
+2010-05-28 16:24:57	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:25:21	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:25:23	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:26:24	I	msg:[mp3 decode] 2078014038 eof
+2010-05-28 16:26:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:26:25	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:26:25	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:26:25	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:26:25	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:26:27	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:26:27	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:26:27	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:26:27	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:26:27	I	msg:[playlistMgr] load complete
+2010-05-28 16:26:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:26:27	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/cc944674a9df092674f7e2396cb20b06.mp3
+2010-05-28 16:26:27	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:26:27	I	msg:[decode] cc944674a9df092674f7e2396cb20b06.mp3::1440833::90.0521
+2010-05-28 16:26:27	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:26:52	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:26:53	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:27:54	I	msg:[mp3 decode] 1029553499 eof
+2010-05-28 16:27:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:27:55	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:27:55	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:27:55	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:27:55	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:27:57	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:27:57	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:27:57	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:27:57	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:27:57	I	msg:[playlistMgr] load complete
+2010-05-28 16:27:57	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:27:57	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2819dbe39cf0bbe21efd3b5761b073d.mp3
+2010-05-28 16:27:57	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:27:57	I	msg:[decode] d2819dbe39cf0bbe21efd3b5761b073d.mp3::1440833::90.0521
+2010-05-28 16:27:57	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:28:22	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:28:23	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:29:25	I	msg:[mp3 decode] 1302163907 eof
+2010-05-28 16:29:25	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:29:25	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:29:25	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:29:25	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:29:25	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:29:28	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:29:28	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:29:28	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:29:28	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:29:28	I	msg:[playlistMgr] load complete
+2010-05-28 16:29:28	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:29:28	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2819dbe39cf0bbe21efd3b5761b073d.mp3
+2010-05-28 16:29:28	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:29:28	I	msg:[decode] d2819dbe39cf0bbe21efd3b5761b073d.mp3::1440833::90.0521
+2010-05-28 16:29:28	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:29:52	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:29:54	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:30:55	I	msg:[mp3 decode] 1987168066 eof
+2010-05-28 16:30:55	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:30:55	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:30:55	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:30:55	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:30:55	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:30:58	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:30:58	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:30:58	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:30:58	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:30:58	I	msg:[playlistMgr] load complete
+2010-05-28 16:30:58	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:30:58	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/910f919423af4aefb07080a96d71d7d1.mp3
+2010-05-28 16:30:58	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:30:58	I	msg:[decode] 910f919423af4aefb07080a96d71d7d1.mp3::1440833::90.0521
+2010-05-28 16:30:58	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:31:22	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:31:25	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:32:25	I	msg:[mp3 decode] 897977535 eof
+2010-05-28 16:32:26	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:32:26	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:32:26	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:32:26	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:32:26	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:32:28	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:32:28	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:32:28	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:32:28	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:32:28	I	msg:[playlistMgr] load complete
+2010-05-28 16:32:28	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:32:28	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/d2b2a29bd210266e8871f2211c3d2e61.mp3
+2010-05-28 16:32:28	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:32:28	I	msg:[decode] d2b2a29bd210266e8871f2211c3d2e61.mp3::1440833::90.0521
+2010-05-28 16:32:28	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:32:52	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:32:55	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:33:56	I	msg:[mp3 decode] 417662700 eof
+2010-05-28 16:33:56	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:33:56	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:33:56	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:33:56	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:33:56	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:33:58	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:33:58	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:33:58	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:33:58	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:33:58	I	msg:[playlistMgr] load complete
+2010-05-28 16:33:58	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:33:58	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/7a7d7c880e3bbb515a3f1ba0969c3d08.mp3
+2010-05-28 16:33:58	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:33:58	I	msg:[decode] 7a7d7c880e3bbb515a3f1ba0969c3d08.mp3::1440833::90.0521
+2010-05-28 16:33:58	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:34:23	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:34:24	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:35:26	I	msg:[mp3 decode] 74256467 eof
+2010-05-28 16:35:26	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:35:26	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:35:26	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:35:26	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:35:26	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:35:28	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:35:28	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:35:29	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:35:29	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:35:29	I	msg:[playlistMgr] load complete
+2010-05-28 16:35:29	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:35:29	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f59939d65497ef6285e322bb9b8f67a.mp3
+2010-05-28 16:35:29	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:35:29	I	msg:[decode] 2f59939d65497ef6285e322bb9b8f67a.mp3::1440833::90.0521
+2010-05-28 16:35:29	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:35:53	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:35:55	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:36:56	I	msg:[mp3 decode] 301672539 eof
+2010-05-28 16:36:57	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:36:57	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:36:57	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:36:57	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:36:57	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:36:59	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:36:59	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:36:59	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:36:59	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:36:59	I	msg:[playlistMgr] load complete
+2010-05-28 16:36:59	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:36:59	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/2f0bb22c3a44877594c2beddf8eef2a4.mp3
+2010-05-28 16:36:59	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:36:59	I	msg:[decode] 2f0bb22c3a44877594c2beddf8eef2a4.mp3::1440833::90.0521
+2010-05-28 16:36:59	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:37:24	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:37:25	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:38:26	I	msg:[mp3 decode] 1053182167 eof
+2010-05-28 16:38:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:38:27	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:38:27	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:38:27	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:38:27	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:38:29	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:38:29	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:38:29	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:38:29	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:38:29	I	msg:[playlistMgr] load complete
+2010-05-28 16:38:29	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:38:29	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/51bd74d9bfb0fdd181ea4c9e028fea3e.mp3
+2010-05-28 16:38:29	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:38:29	I	msg:[decode] 51bd74d9bfb0fdd181ea4c9e028fea3e.mp3::1440833::90.0521
+2010-05-28 16:38:29	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:38:54	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:38:55	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:39:56	I	msg:[mp3 decode] 628100983 eof
+2010-05-28 16:39:57	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:39:57	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:39:57	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:39:57	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:39:57	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:39:59	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:39:59	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:39:59	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:39:59	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:39:59	I	msg:[playlistMgr] load complete
+2010-05-28 16:39:59	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:39:59	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/e60e1f01303f366a22772e6b9aa424d7.mp3
+2010-05-28 16:39:59	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:39:59	I	msg:[decode] e60e1f01303f366a22772e6b9aa424d7.mp3::1440833::90.0521
+2010-05-28 16:39:59	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:40:24	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:40:26	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:41:27	I	msg:[mp3 decode] 1594120280 eof
+2010-05-28 16:41:27	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:41:27	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:41:27	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:41:27	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:41:27	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:41:29	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:41:29	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:41:30	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:41:30	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:41:30	I	msg:[playlistMgr] load complete
+2010-05-28 16:41:30	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:41:30	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/7a7d7c880e3bbb515a3f1ba0969c3d08.mp3
+2010-05-28 16:41:30	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:41:30	I	msg:[decode] 7a7d7c880e3bbb515a3f1ba0969c3d08.mp3::1440833::90.0521
+2010-05-28 16:41:30	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:41:54	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:41:56	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:42:57	I	msg:[mp3 decode] 7671392 eof
+2010-05-28 16:42:58	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:42:58	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:42:58	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:42:58	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:42:58	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:43:00	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:43:00	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:43:00	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:43:00	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:43:00	I	msg:[playlistMgr] load complete
+2010-05-28 16:43:00	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:43:00	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/51bd74d9bfb0fdd181ea4c9e028fea3e.mp3
+2010-05-28 16:43:00	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:43:00	I	msg:[decode] 51bd74d9bfb0fdd181ea4c9e028fea3e.mp3::1440833::90.0521
+2010-05-28 16:43:00	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:43:24	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:43:26	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:44:27	I	msg:[mp3 decode] 1739580998 eof
+2010-05-28 16:44:28	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:44:28	I	msg:[decode] next file is /var/www/playlist/protected/pause.mp3
+2010-05-28 16:44:28	I	msg:[ID3V2] version 3.0 tagsize=48 unsync=0 xheader=0
+2010-05-28 16:44:28	I	msg:[decode] pause.mp3::6615040::413.44
+2010-05-28 16:44:28	I	msg:[resampler] deactivated 44100/2 == 44100/2
+2010-05-28 16:44:30	I	msg:[MAIN] SIGUSR1; Reload Playlist
+2010-05-28 16:44:30	I	msg:[MAIN] SIGWINCH; Next Song
+2010-05-28 16:44:30	I	msg:[playlistMgr] playlist load from file /var/www/playlist/protected/playlist.lst
+2010-05-28 16:44:30	I	msg:[playlistMgr] Caching playlist /var/www/playlist/protected/playlist.lst
+2010-05-28 16:44:30	I	msg:[playlistMgr] load complete
+2010-05-28 16:44:30	W	msg:[playlist] playlist Directory (/export/home/friends/playlist/) does not exist
+2010-05-28 16:44:30	I	msg:[decode] next file is /var/www/playlist/protected/mp3/20100507/cc944674a9df092674f7e2396cb20b06.mp3
+2010-05-28 16:44:30	I	msg:[ID3V2] version 3.0 tagsize=4086 unsync=0 xheader=0
+2010-05-28 16:44:30	I	msg:[decode] cc944674a9df092674f7e2396cb20b06.mp3::1440833::90.0521
+2010-05-28 16:44:30	I	msg:[resampler] resampling 44100/1 == 44100/2
+2010-05-28 16:44:55	I	msg:[shoutcastmetadata] Sending metadata
+2010-05-28 16:44:56	I	msg:[shoutcastmetadata] Sending metadata

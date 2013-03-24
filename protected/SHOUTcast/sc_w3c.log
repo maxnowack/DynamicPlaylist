@@ -1,0 +1,215 @@
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+192.168.1.61 192.168.1.61 2010-03-13 00:25:39 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1591519 160 79568
+192.168.1.61 192.168.1.61 2010-03-13 01:40:46 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2234874 233 76728
+192.168.1.61 192.168.1.61 2010-03-13 01:45:25 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2376573 279 68144
+192.168.1.61 192.168.1.61 2010-03-13 01:50:05 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2441783 281 69512
+192.168.1.61 192.168.1.61 2010-03-13 01:54:44 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2376573 278 68384
+192.168.1.61 192.168.1.61 2010-03-13 01:59:24 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2377140 281 67672
+192.168.1.61 192.168.1.61 2010-03-13 02:04:03 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2439756 279 69952
+192.168.1.61 192.168.1.61 2010-03-13 02:08:41 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2377140 278 68400
+192.168.1.61 192.168.1.61 2010-03-13 02:13:21 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2377140 280 67912
+192.168.1.61 192.168.1.61 2010-03-13 02:17:59 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2377140 278 68400
+192.168.1.61 192.168.1.61 2010-03-13 02:21:11 /stream?title=Crookers%20%2D%20http%3A%2F%2Fblog%2Edatasapiens%2Enet%20%2D%20Brick%20City%20Go 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1669708 192 69568
+192.168.1.61 192.168.1.61 2010-03-13 02:23:02 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Vegas 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 261867 18 116384
+192.168.1.61 192.168.1.61 2010-03-13 08:43:50 /stream?title=The%20Bloody%20Beetroots%20%2D%20Electrocasts%20Flash%20Mix%202008%20%2D%20Electrocasts%20Flash%20Mix%202008 200 VLC%20media%20player%20%2D%20version%201%2E0%2E5%20Goldeneye%20%2D%20%28c%29%201996%2D2010%20the%20VideoLAN%20team 10934549 1921 45536
+192.168.1.61 192.168.1.61 2010-03-13 08:45:22 /stream?title=The%20Bloody%20Beetroots%20%2D%20Bounce%20%5BDigital%20Download%20%2D%20DM119%5D%20%2D%20MSTRKRFT%20%2D%20Bounce%20%28The%20Bloody%20Beetroots%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 519067 39 106472
+192.168.1.61 192.168.1.61 2010-03-13 08:47:26 /stream?title=Cazals%20%2D%20disturbedbeats%2Eblogspot%2Ecom%20%2D%20Life%20Is%20Boring%20%28Crookers%20Zupa%20Dela%20Cazals%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1077075 124 69488
+192.168.1.61 192.168.1.61 2010-03-13 08:49:26 /stream?title=Cazals%20%2D%20disturbedbeats%2Eblogspot%2Ecom%20%2D%20Life%20Is%20Boring%20%28Crookers%20Zupa%20Dela%20Cazals%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1228719 119 82600
+192.168.1.61 192.168.1.61 2010-03-13 08:50:21 /stream?title=Cazals%20%2D%20disturbedbeats%2Eblogspot%2Ecom%20%2D%20Life%20Is%20Boring%20%28Crookers%20Zupa%20Dela%20Cazals%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 456714 35 104384
+192.168.1.61 192.168.1.61 2010-03-13 08:50:26 /stream?title=Cazals%20%2D%20disturbedbeats%2Eblogspot%2Ecom%20%2D%20Life%20Is%20Boring%20%28Crookers%20Zupa%20Dela%20Cazals%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 61119 5 97784
+192.168.1.61 192.168.1.61 2010-03-13 08:51:07 /stream?title=9A%20%2D%20ACDC%20%2D%20Thunderstruck%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 396670 40 79328
+192.168.1.61 192.168.1.61 2010-03-13 14:19:15 /stream?title=9A%20%2D%20ACDC%20%2D%20Thunderstruck%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 293618 19685 112
+192.168.1.61 192.168.1.61 2010-03-13 14:21:26 /stream?title=Bumblebeez%20%2D%20Dr%20Love%20%2D%20Dr%20Love%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 92519 3 246712
+192.168.1.61 192.168.1.61 2010-03-13 14:26:19 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2694519 286 75368
+192.168.1.61 192.168.1.61 2010-03-13 14:31:11 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 274 72704
+192.168.1.61 192.168.1.61 2010-03-13 14:36:05 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 288 69176
+192.168.1.61 192.168.1.61 2010-03-13 14:40:58 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2555904 287 71240
+192.168.1.61 192.168.1.61 2010-03-13 14:45:51 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 287 69416
+192.168.1.61 192.168.1.61 2010-03-13 14:50:43 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 287 69416
+192.168.1.61 192.168.1.61 2010-03-13 14:55:37 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2555904 329 62144
+192.168.1.61 192.168.1.61 2010-03-13 15:00:29 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 287 69416
+192.168.1.61 192.168.1.61 2010-03-13 15:05:22 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2503508 287 69784
+192.168.1.61 192.168.1.61 2010-03-13 15:10:17 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2542764 287 70872
+192.168.1.61 192.168.1.61 2010-03-13 15:15:09 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 288 69176
+192.168.1.61 192.168.1.61 2010-03-13 15:20:01 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2555904 287 71240
+192.168.1.61 192.168.1.61 2010-03-13 15:24:54 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 287 69416
+192.168.1.61 192.168.1.61 2010-03-13 15:29:47 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 328 60736
+192.168.1.61 192.168.1.61 2010-03-13 15:34:40 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2555904 288 70992
+192.168.1.61 192.168.1.61 2010-03-13 15:39:33 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 287 69416
+192.168.1.61 192.168.1.61 2010-03-13 15:44:26 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2555904 287 71240
+192.168.1.61 192.168.1.61 2010-03-13 15:49:20 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 288 69176
+192.168.1.61 192.168.1.61 2010-03-13 15:54:13 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2504968 287 69824
+192.168.1.61 192.168.1.61 2010-03-13 15:59:05 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2542764 288 70632
+192.168.1.61 192.168.1.61 2010-03-13 16:03:58 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2491828 329 60584
+192.168.1.61 192.168.1.61 2010-03-13 16:08:52 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2537249 287 70720
+192.168.1.61 192.168.1.61 2010-03-13 16:13:44 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2510483 288 69728
+192.168.1.61 192.168.1.61 2010-03-13 16:18:38 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 288 69176
+192.168.1.61 192.168.1.61 2010-03-13 16:23:31 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2555904 287 71240
+192.168.1.61 192.168.1.61 2010-03-13 16:28:23 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2490368 288 69176
+192.168.1.61 192.168.1.61 2010-03-13 16:33:17 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2500588 287 69696
+192.168.1.61 192.168.1.61 2010-03-13 16:35:32 /stream?title=Crookers%20%2D%20Love%20to%20edit 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1169428 165 56696
+192.168.1.61 192.168.1.61 2010-04-20 14:40:58 /stream?title=Crookers%20%2D%20Lick%20My%20Lennon%20%28The%20Bloody%20Beet%20Roots%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 456319 25 146016
+192.168.1.61 192.168.1.61 2010-04-20 14:41:56 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 524288 58 72312
+192.168.1.61 192.168.1.61 2010-04-20 14:42:36 /stream?title=Crookers%20%2D%20Lick%20My%20Lennon%20%28The%20Bloody%20Beet%20Roots%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 327680 40 65536
+192.168.1.61 192.168.1.61 2010-04-20 14:43:34 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 458752 58 63272
+192.168.1.61 192.168.1.61 2010-04-20 14:44:15 /stream?title=Crookers%20%2D%20Lick%20My%20Lennon%20%28The%20Bloody%20Beet%20Roots%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 393216 41 76720
+192.168.1.61 192.168.1.61 2010-04-20 14:44:38 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 196608 23 68384
+192.168.1.61 192.168.1.61 2010-04-20 14:45:35 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 458752 57 64384
+192.168.1.61 192.168.1.61 2010-04-20 14:45:35 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 0 1 0
+192.168.1.61 192.168.1.61 2010-04-20 14:46:01 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 415926 21 158448
+192.168.1.61 192.168.1.61 2010-04-20 14:46:04 /stream?title=The%20Bloody%20Beetroots%20%2D%20Mixed%20%26%20Produced%20by%20Bob%20Rifo%20%2D%20Bloody%20Beetroots%20NLLR%20Mix%20Exclusive 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 65535 3 174760
+192.168.1.61 192.168.1.61 2010-04-20 14:47:09 /stream?title=The%20Ting%20Tings%20%2D%20Great%20DJ%20%28Calvin%20Harris%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 524288 64 65536
+192.168.1.61 192.168.1.61 2010-04-20 14:48:09 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 524288 60 69904
+192.168.1.61 192.168.1.61 2010-04-20 14:48:44 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262144 32 65536
+192.168.1.61 192.168.1.61 2010-04-20 14:49:42 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 524288 58 72312
+192.168.1.61 192.168.1.61 2010-04-20 14:50:13 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262145 31 67648
+192.168.1.61 192.168.1.61 2010-04-20 14:51:12 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 524287 59 71088
+192.168.1.61 192.168.1.61 2010-04-20 14:51:42 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262145 31 67648
+192.168.1.61 192.168.1.61 2010-04-20 14:52:09 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 196608 26 60488
+192.168.1.61 192.168.1.61 2010-04-20 14:52:41 /stream?title=The%20Bloody%20Beetroots%20%2D%20Dan%20Sena%20%2D%20Dan%20Sena%20%2D%20Italofuker%20%28BB%20Drop%203%3A16%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 327679 33 79432
+192.168.1.61 192.168.1.61 2010-04-20 14:53:26 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 327681 44 59576
+192.168.1.61 192.168.1.61 2010-04-20 14:53:40 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 369126 14 210928
+192.168.1.61 192.168.1.61 2010-04-20 14:54:39 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 514637 59 69776
+192.168.1.61 192.168.1.61 2010-04-20 14:55:37 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 511716 58 70576
+192.168.1.61 192.168.1.61 2010-04-20 14:56:36 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 450559 59 61088
+192.168.1.61 192.168.1.61 2010-04-20 14:57:09 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 320948 32 80232
+192.168.1.61 192.168.1.61 2010-04-20 14:57:33 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 460616 24 153536
+192.168.1.61 192.168.1.61 2010-04-20 14:57:38 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 65698 5 105112
+192.168.1.61 192.168.1.61 2010-04-20 14:58:01 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Electro%20Man 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 371884 16 185936
+192.168.1.61 192.168.1.61 2010-04-20 14:58:39 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Certified 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 325490 38 68520
+192.168.1.61 192.168.1.61 2010-04-20 14:59:21 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 380985 41 74336
+192.168.1.61 192.168.1.61 2010-04-20 14:59:36 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 349823 14 199896
+192.168.1.61 192.168.1.61 2010-04-20 15:00:02 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Certified 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 306510 8 306504
+192.168.1.61 192.168.1.61 2010-04-20 15:00:57 /stream?title=Crookers%20%2D%20Big%20Fat%20Club%20Ass 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 450559 56 64360
+192.168.1.61 192.168.1.61 2010-04-20 15:01:57 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 513178 60 68416
+192.168.1.61 192.168.1.61 2010-04-20 15:02:51 /stream?title=Crookers%20%2D%20Big%20Fat%20Club%20Ass 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 514636 54 76240
+192.168.1.61 192.168.1.61 2010-04-20 15:03:51 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 513905 60 68520
+192.168.1.61 192.168.1.61 2010-04-20 15:04:45 /stream?title=Crookers%20%2D%20Big%20Fat%20Club%20Ass 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 448939 54 66504
+192.168.1.61 192.168.1.61 2010-04-20 15:04:51 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 64076 6 85432
+192.168.1.61 192.168.1.61 2010-04-20 15:05:17 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Love%20Souvenir 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 192228 26 59144
+192.168.1.61 192.168.1.61 2010-04-20 15:05:29 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Love%20Souvenir 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 388430 12 258952
+192.168.1.61 192.168.1.61 2010-04-20 15:06:06 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 328426 36 72976
+192.168.1.61 192.168.1.61 2010-04-20 15:06:56 /stream?title=Cut%20Copy%20%2D%20Hearts%20on%20Fire%20Modular%20Promo%20%2D%20Hearts%20on%20Fire%20%28Calvin%20Harris%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 697292 49 113840
+192.168.1.61 192.168.1.61 2010-04-20 15:07:16 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 192650 20 77056
+192.168.1.61 192.168.1.61 2010-04-20 15:07:56 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 572466 34 134696
+192.168.1.61 192.168.1.61 2010-04-20 15:08:47 /stream?title=Cut%20Copy%20%2D%20Hearts%20on%20Fire%20Modular%20Promo%20%2D%20Hearts%20on%20Fire%20%28Calvin%20Harris%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 394076 51 61808
+192.168.1.61 192.168.1.61 2010-04-20 15:09:44 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 525520 58 72480
+192.168.1.61 192.168.1.61 2010-04-20 15:10:42 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 459822 58 63416
+192.168.1.61 192.168.1.61 2010-04-20 15:11:40 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 525520 58 72480
+192.168.1.61 192.168.1.61 2010-04-20 15:11:44 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 65634 4 131264
+192.168.1.61 192.168.1.61 2010-04-20 15:12:42 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 459822 57 64536
+192.168.1.61 192.168.1.61 2010-04-20 15:13:40 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 525520 58 72480
+192.168.1.61 192.168.1.61 2010-04-20 15:14:06 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 197030 27 58376
+192.168.1.61 192.168.1.61 2010-04-20 15:14:40 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 472703 24 157560
+192.168.1.61 192.168.1.61 2010-04-20 15:14:43 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1460 3 3888
+192.168.1.61 192.168.1.61 2010-04-20 15:15:15 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 523071 26 160944
+192.168.1.61 192.168.1.61 2010-04-20 15:16:00 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 385364 45 68504
+192.168.1.61 192.168.1.61 2010-04-20 15:16:13 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 75744 1 605952
+192.168.1.61 192.168.1.61 2010-04-20 15:16:44 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 465646 28 133040
+192.168.1.61 192.168.1.61 2010-04-20 15:17:30 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 446180 46 77592
+192.168.1.61 192.168.1.61 2010-04-20 15:18:20 /stream?title=Crookers%20%2D%20istola%20EP%20%2D%20Il%20Buono%20%28Original%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 644004 43 119808
+192.168.1.61 192.168.1.61 2010-04-20 15:19:18 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 471501 58 65032
+192.168.1.61 192.168.1.61 2010-04-20 15:20:00 /stream?title=Crookers%20%2D%20istola%20EP%20%2D%20Il%20Buono%20%28Original%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 382429 42 72840
+192.168.1.61 192.168.1.61 2010-04-20 15:20:59 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 525520 59 71256
+192.168.1.61 192.168.1.61 2010-04-20 15:21:41 /stream?title=Crookers%20%2D%20istola%20EP%20%2D%20Il%20Buono%20%28Original%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 328410 42 62552
+192.168.1.61 192.168.1.61 2010-04-20 15:22:32 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 459822 51 72128
+192.168.1.61 192.168.1.61 2010-04-20 15:23:03 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262696 31 67792
+192.168.1.61 192.168.1.61 2010-04-20 15:24:02 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 525520 59 71256
+192.168.1.61 192.168.1.61 2010-04-20 15:24:34 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262696 31 67792
+192.168.1.61 192.168.1.61 2010-04-20 15:25:32 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 470041 58 64832
+192.168.1.61 192.168.1.61 2010-04-20 15:25:45 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 121081 13 74504
+192.168.1.61 192.168.1.61 2010-04-20 15:26:02 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 367909 16 183952
+192.168.1.61 192.168.1.61 2010-04-20 15:26:27 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262728 25 84072
+192.168.1.61 192.168.1.61 2010-04-20 15:30:06 /stream?title=AdamSkyVSMarkStewart%2DWeAreAllProstitutes%28CrookersRemix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 764370 66 92648
+192.168.1.61 192.168.1.61 2010-04-20 15:33:10 /stream?title=The%20Bloody%20Beetroots%20%2D%20Christmas%20Vendetta%2E%2E%2E%20Spares%20o%20%2D%20WARP%201977%20%28Feat%2E%20Steve%20Aoki%20%26 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1572864 183 68752
+192.168.1.61 192.168.1.61 2010-04-20 15:33:16 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 65536 6 87376
+192.168.1.61 192.168.1.61 2010-04-20 15:34:49 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 786432 94 66928
+192.168.1.61 192.168.1.61 2010-04-20 15:36:44 /stream?title=The%20Bloody%20Beetroots%20Feat%20Stev%20%2D%20www%2Egiganticclub%2Ecom%20%2D%20WARP%201%2E9 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1170807 112 83624
+192.168.1.61 192.168.1.61 2010-04-20 15:37:15 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 262144 31 67648
+192.168.1.61 192.168.1.61 2010-04-20 15:37:54 /stream?title=9A%20%2D%20ACDC%20%2D%20Thunderstruck%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 327680 39 67216
+192.168.1.61 192.168.1.61 2010-04-20 15:42:40 /stream?title=9A%20%2D%20ACDC%20%2D%20Thunderstruck%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 2631903 281 74928
+192.168.1.61 192.168.1.61 2010-04-20 15:42:44 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 5840 4 11680
+192.168.1.61 192.168.1.61 2010-04-20 15:43:34 /stream?title=Crookers%20%2D%20istola%20EP%20%2D%20Il%20Buono%20%28Original%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 452912 50 72464
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+192.168.1.65 192.168.1.65 2010-04-21 15:32:11 /stream?title=Alex%20Gopher%20%2D%20Aurora%20%28Original%20Mix%29 200 Apple%20iPhone%20OS%20v3%2E1%2E2%20CoreMedia%20v1%2E0%2E0%2E7D11 2836283 233 97376
+192.168.1.65 192.168.1.65 2010-04-21 15:35:31 /stream?title=Dizzee%20Rascal%20feat%2E%20Calvin%20Harris%20%2D%20Dance%20Wiv%20Me 200 Apple%20iPhone%20OS%20v3%2E1%2E2%20CoreMedia%20v1%2E0%2E0%2E7D11 2396675 200 95864
+192.168.1.65 192.168.1.65 2010-04-21 15:35:32 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 Apple%20iPhone%20OS%20v3%2E1%2E2%20CoreMedia%20v1%2E0%2E0%2E7D11 12222 1 97776
+192.168.1.65 192.168.1.65 2010-04-21 15:36:22 /stream?title=AdamSkyVSMarkStewart%2DWeAreAllProstitutes%28CrookersRemix%29 200 Apple%20iPhone%20OS%20v3%2E1%2E2%20CoreMedia%20v1%2E0%2E0%2E7D11 592738 49 96768
+192.168.1.83 192.168.1.83 2010-04-21 18:38:09 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Acceptable%20in%20the%2080s 200 GStreamer%20souphttpsrc%20libsoup%2F2%2E26%2E0 3408831 281 97048
+192.168.1.83 192.168.1.83 2010-04-21 18:38:12 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 GStreamer%20souphttpsrc%20libsoup%2F2%2E26%2E0 36294 3 96784
+192.168.1.83 192.168.1.83 2010-04-21 18:41:57 /stream?title=Calvin%20Harris%20%2D%20I%20Created%20Disco%20%2D%20Merrymaking%20at%20My%20Place 200 GStreamer%20souphttpsrc%20libsoup%2F2%2E26%2E0 2697223 225 95896
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+192.168.1.61 192.168.1.61 2010-05-07 13:59:19 /stream?title=The%20Whip%20%2D%20Trash%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1895838 154 98480
+192.168.1.61 192.168.1.61 2010-05-07 13:59:22 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 36633 3 97688
+192.168.1.61 192.168.1.61 2010-05-07 14:04:46 /stream?title=Stylophonic%20%2D%20Baby%20Beat%20Box%20%28Crookers%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 3878652 324 95768
+192.168.1.61 192.168.1.61 2010-05-07 14:04:48 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24156 2 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:11:54 /stream?title=The%20Ting%20Tings%20%2D%20Great%20DJ%20%28Calvin%20Harris%20Remix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 5107433 426 95912
+192.168.1.61 192.168.1.61 2010-05-07 14:17:44 /stream?title=Don%20Rimini%20%2D%20Let%20Me%20Back%20Up%20%28Crookers%20Tetsujin%20Mix%29 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 4191786 350 95808
+192.168.1.61 192.168.1.61 2010-05-07 14:17:46 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24414 2 97656
+192.168.1.61 192.168.1.61 2010-05-07 14:22:49 /stream?title=Crookers%20%2D%20Summer%20of%2098 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 3630584 303 95856
+192.168.1.61 192.168.1.61 2010-05-07 14:22:51 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24144 2 96576
+192.168.1.61 192.168.1.61 2010-05-07 14:23:18 /stream?title=Rechteck%2DTon%20%2D%20300Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 322077 27 95424
+192.168.1.61 192.168.1.61 2010-05-07 14:27:20 /stream?title=Rechteck%2DTon%20%2D%20200Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 132533 8 132528
+192.168.1.61 192.168.1.61 2010-05-07 14:27:22 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24168 2 96672
+192.168.1.61 192.168.1.61 2010-05-07 14:28:50 /stream?title=Sinus%2DTon%20%2D%20700Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1055033 88 95912
+192.168.1.61 192.168.1.61 2010-05-07 14:28:52 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24144 2 96576
+192.168.1.61 192.168.1.61 2010-05-07 14:30:20 /stream?title=Sinus%2DTon%20%2D%20100Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054937 88 95896
+192.168.1.61 192.168.1.61 2010-05-07 14:30:22 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24168 2 96672
+192.168.1.61 192.168.1.61 2010-05-07 14:31:50 /stream?title=Sinus%2DTon%20%2D%20900Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054936 87 97000
+192.168.1.61 192.168.1.61 2010-05-07 14:31:52 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24156 2 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:33:20 /stream?title=Sgezahn%2DTon%20%2D%20300Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054874 88 95896
+192.168.1.61 192.168.1.61 2010-05-07 14:33:22 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 20129 2 80512
+192.168.1.61 192.168.1.61 2010-05-07 14:34:51 /stream?title=Sgezahn%2DTon%20%2D%20200Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1067015 89 95904
+192.168.1.61 192.168.1.61 2010-05-07 14:34:54 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 36234 3 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:36:22 /stream?title=Rechteck%2DTon%20%2D%20700Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054817 88 95888
+192.168.1.61 192.168.1.61 2010-05-07 14:36:23 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 12078 1 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:37:51 /stream?title=Rechteck%2DTon%20%2D%20100Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054901 88 95896
+192.168.1.61 192.168.1.61 2010-05-07 14:37:54 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 36234 3 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:39:22 /stream?title=Sinus%2DTon%20%2D%20600Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054841 88 95888
+192.168.1.61 192.168.1.61 2010-05-07 14:39:23 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 12078 1 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:40:51 /stream?title=Rechteck%2DTon%20%2D%20900Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054841 88 95888
+192.168.1.61 192.168.1.61 2010-05-07 14:40:53 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24168 2 96672
+192.168.1.61 192.168.1.61 2010-05-07 14:42:21 /stream?title=Sgezahn%2DTon%20%2D%20600Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054877 88 95896
+192.168.1.61 192.168.1.61 2010-05-07 14:42:24 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 36222 3 96592
+192.168.1.61 192.168.1.61 2010-05-07 14:43:52 /stream?title=Sinus%2DTon%20%2D%20300Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1050855 88 95528
+192.168.1.61 192.168.1.61 2010-05-07 14:43:54 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24156 2 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:45:23 /stream?title=Rechteck%2DTon%20%2D%20400Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1067111 89 95920
+192.168.1.61 192.168.1.61 2010-05-07 14:45:24 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 12078 1 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:46:52 /stream?title=Rechteck%2DTon%20%2D%20800Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 1054889 88 95896
+192.168.1.61 192.168.1.61 2010-05-07 14:46:54 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 24156 2 96624
+192.168.1.61 192.168.1.61 2010-05-07 14:46:54 /stream?title=Rechteck%2DTon%20%2D%20500Hz%2090%20Sekunden 200 WinampMPEG%2F5%2E57%2C%20Ultravox%2F2%2E1 0 1 0
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+#Software: SHOUTcast
+#Version: 1.9.8
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+192.168.1.72 192.168.1.72 2010-06-07 12:57:02 /stream?title=Sgezahn%2DTon%20%2D%20400Hz%2090%20Sekunden 200 VLC%20media%20player%20%2D%20version%201%2E0%2E5%20Goldeneye%20%2D%20%28c%29%201996%2D2010%20the%20VideoLAN%20team 140597 7 160680
+192.168.1.72 192.168.1.72 2010-06-07 12:57:05 /stream?title=Gleich%20gehts%20weiter%2E%2E%2E 200 VLC%20media%20player%20%2D%20version%201%2E0%2E5%20Goldeneye%20%2D%20%28c%29%201996%2D2010%20the%20VideoLAN%20team 36233 3 96616
